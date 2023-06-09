@@ -435,6 +435,8 @@ fn this_arch() -> &'static str {
         "x86_64"
     } else if cfg!(target_arch = "aarch64") {
         "aarch64"
+    } else if cfg!(target_arch = "riscv64") {
+        "riscv64"
     } else {
         unimplemented!("please add support for the current target architecture")
     }

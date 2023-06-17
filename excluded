@@ -1,0 +1,6 @@
+     deleted:    benchmarks/blake3-simd/benchmark.wasm
+        deleted:    benchmarks/hex-simd/benchmark.wasm
+        deleted:    benchmarks/intgemm-simd/benchmark.wasm
+        deleted:    benchmarks/meshoptimizer/benchmark.wasm
+        deleted:    benchmarks/shootout-ackermann/benchmark.wasm
+        deleted:    benchmarks/shootout-switch/benchmark.wasm
